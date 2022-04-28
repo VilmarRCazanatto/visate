@@ -1,0 +1,22 @@
+{
+    "VisateHorarios": {
+        "desc": "URL de API busca de horario de cada onibus por codigo",
+        "url": "https://editor.mobilibus.com/web/get-timetable-by-day"
+    },
+    "VisateTodasLinhas":{
+        "desc": "URL de pagina de com select de todos onibus",
+        "url": "https://editor.mobilibus.com/web/bus2you/230tf#"
+    },
+    "MyApiLinhas": {
+        "desc": "Minha API de linhas (dev)",
+        "url": "http://localhost:3000/api/linhas"
+    },
+    "MyApiHorarios": {
+        "desc": "Minha API de horarios (dev)",
+        "url": "http://localhost:3000/api/horarios"
+    },
+    "MyApiSaidas": {
+        "desc": "Minha API de saidas (dev)",
+        "url": "http://localhost:3000/api/saidas"
+    }
+}
