@@ -1,4 +1,4 @@
-const DOMAIN = 'http://localhost:3000'
+const DOMAIN = 'https://visate.vercel.app/'
 const API = {
     LINHAS: '/api/linhas',
     HORARIOS: '/api/horarios',

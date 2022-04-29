@@ -14,6 +14,7 @@ export default function Linha({ linha, data, err }) {
     if (fallback) return (<div>Loadding...</div>)
 
     
+    
     return (
         <>
             <BusTimeList linha={linha} data={data}/>

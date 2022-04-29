@@ -9,14 +9,14 @@
     },
     "MyApiLinhas": {
         "desc": "Minha API de linhas (dev)",
-        "url": "http://localhost:3000/api/linhas"
+        "url": "https://visate.vercel.app/api/linhas"
     },
     "MyApiHorarios": {
         "desc": "Minha API de horarios (dev)",
-        "url": "http://localhost:3000/api/horarios"
+        "url": "https://visate.vercel.app/api/horarios"
     },
     "MyApiSaidas": {
         "desc": "Minha API de saidas (dev)",
-        "url": "http://localhost:3000/api/saidas"
+        "url": "https://visate.vercel.app/api/saidas"
     }
 }
